@@ -5,11 +5,12 @@ This repository contains hands-on exercises and projects for the Cognizant DeepS
 ## Week 1
 
 ### ✅ Data Structures and Algorithms
-- E-commerce platform search functionality using Binary and Linear Search
-
 ### ✅ Design Patterns and Principles
-- Factory Method Pattern Example
-- Singleton Pattern Example
+
+## Week 2
+
+### ✅ PL/SQL
+### ✅ Test driven development and Logging framework
 
 ## 📁 Structure
 Each week is organized into folders with source code and documents.
