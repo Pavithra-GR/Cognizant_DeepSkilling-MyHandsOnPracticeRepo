@@ -12,9 +12,16 @@ This repository contains hands-on exercises and projects for the Cognizant DeepS
 ### ✅ PL/SQL
 ### ✅ Test driven development and Logging framework
 
+## Week 3
+
+### ✅ Spring Core and Maven
+### ✅ Spring Data JPA with Spring Boot, Hibernate
+
+
 ## 📁 Structure
 Each week is organized into folders with source code and documents.
 
 ## 🛠️ Technologies
 - Java (Eclipse IDE)
-
+- Spring Framework
+- SpringBoot 
