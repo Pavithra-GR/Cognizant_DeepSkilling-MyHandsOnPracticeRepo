@@ -23,7 +23,11 @@ This repository contains hands-on exercises and projects for the Cognizant DeepS
 
 ## Week 6
 
-### ✅ React
+### ✅ React (1-5)
+
+## Week 7
+
+### ✅ React (9-13)
 
 ## Week 8
 
