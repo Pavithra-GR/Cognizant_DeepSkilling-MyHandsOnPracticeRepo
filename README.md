@@ -17,6 +17,10 @@ This repository contains hands-on exercises and projects for the Cognizant DeepS
 ### ✅ Spring Core and Maven
 ### ✅ Spring Data JPA with Spring Boot, Hibernate
 
+## Week 4
+
+### ✅ Spring REST using SpringBoot
+
 ## Week 6
 
 ### ✅ React
